@@ -30,12 +30,12 @@ from telethon import TelegramClient, events, Button
 # CONFIG
 # ============================================================
 
-API_ID = int(os.getenv("API_ID", "0"))
-API_HASH = os.getenv("API_HASH", "")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
+API_ID = int(os.getenv("API_ID", "30424087"))
+API_HASH = os.getenv("API_HASH", "793db34ba0138f1c174434616a681574")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8966483289:AAGgImBEUgc2XPdQEADHy0a_B7eHdQ9UIQk")
 ADMIN_ID = {
     int(x.strip())
-    for x in os.getenv("ADMIN_ID", "").split(",")
+    for x in os.getenv("ADMIN_ID", "6904041366").split(",")
     if x.strip().isdigit()
 }
 
