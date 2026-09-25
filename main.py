@@ -11,8 +11,8 @@ from urllib.parse import urlparse
 # Config
 API_ID = 31186
 API_HASH = "bb7b02ea8ab0dd31e6e37091ee"
-BOT_TOKEN = "841923:AAHn_BCHeay6wEv8LVoIOs" # Replace with your Bot Token
-ADMIN_ID = [686523,615070]
+BOT_TOKEN = "8966483289:AAGgImBEUgc2XPdQEADHy0a_B7eHdQ9UIQk" # Replace with your Bot Token
+ADMIN_ID = [6904041366]
 
 # Files
 PREMIUM_FILE = "premium.json"
