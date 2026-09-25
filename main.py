@@ -15,7 +15,7 @@ from telethon import TelegramClient, events, Button
 # ==========================================
 API_ID = 30424087
 API_HASH = '793db34ba0138f1c174434616a681574'
-BOT_TOKEN = '8966483289:AAFISyRn3ATFmP7VCbgAm4z0arvWST0NCwg'
+BOT_TOKEN = '8966483289:AAGmWxm9bsN-rJ7wRhxTvhyhJh5zhbCCczs'
 ADMIN_ID = [6904041366]
 CHECKER_API_URL = 'https://web-production-0919d.up.railway.app/shopify'
 
