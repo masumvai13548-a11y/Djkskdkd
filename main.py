@@ -638,7 +638,7 @@ async def start_handler(event):
     user_id = event.sender_id
     
     text = MAIN_MENU_TEXT.format(name=name, user_id=user_id)
-    gif_url = "https://media.giphy.com/media/59d1zo8SUSaUU/giphy.gif"
+    gif_url = "https://media.giphy.com/media/OjmOAwVgHvS855nl6K/giphy.gif"
     
     await event.respond(text, buttons=MAIN_MENU_BUTTONS, file=gif_url, parse_mode='md')
 
