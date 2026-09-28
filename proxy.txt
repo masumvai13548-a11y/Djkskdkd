@@ -1,10 +1,2 @@
-31.59.20.176:6754:dwrokmmd:v4zl7mji26xq
-45.38.107.97:6014:dwrokmmd:v4zl7mji26xq
-64.137.96.74:6641:dwrokmmd:v4zl7mji26xq
-198.23.243.226:6361:dwrokmmd:v4zl7mji26xq
-38.154.185.97:6370:dwrokmmd:v4zl7mji26xq
-84.247.60.125:6095:dwrokmmd:v4zl7mji26xq
-142.111.67.146:5611:dwrokmmd:v4zl7mji26xq
-191.96.254.138:6185:dwrokmmd:v4zl7mji26xq
-31.58.9.4:6077:dwrokmmd:v4zl7mji26xq
-198.46.161.42:5092:dwrokmmd:v4zl7mji26xq
+135.125.87.149:80
+174.138.162.35:35191
